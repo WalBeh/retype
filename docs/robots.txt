@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://walbeh.github.io/retype/sitemap.xml.gz
+Sitemap: https://walbeh.github.io/retype/docs/sitemap.xml.gz

@@ -1,12 +1,12 @@
 input: .
 output: docs
 branch: retype
-url: https://walbeh.github.io/retype/
+url: https://walbeh.github.io/retype/docs/
 branding:
   title: 'Amateurfunk Betrieb'
   label: Docs
 links:
 - text: Getting Startedx
-  link: https://walbeh.github.io/retype/docs
+  link: https://walbeh.github.io/retype/docs/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
