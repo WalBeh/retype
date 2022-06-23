@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: docs
 branch: retype
 url: https://walbeh.github.io/retype/
 branding:
