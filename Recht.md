@@ -402,7 +402,7 @@ Maßnahmen treffen, die die Inbetriebsetzung durch Unbefugte ausschließen.---
 Aussendungen dürfen nur durchgeführt werden:, in den dem AF-Dienst und der Bewilligungsklasse zugewiesenen Frequenzen, in der festgesetzten Sendeart, in der sich aus Frequenzbereich und Leistungsstufe ergebenden Sendeleistung, festgesetzte Bandbreite, bei persönlicher Anwesenheit, außer bei Relais/Baken
 
 ### R57: Welche Bestimmungen sind beim Betrieb einer AF-Stelle im Ausland zu beachten?
-Bestimmungen des Gastlandes
+Bestimmungen des Gastlandes.
 
 ### R58: Voraussetzung für die Durchführung von Amateurfunk im Ausland für einen Klasse 3 Inhaber?
 - Gar nicht!
