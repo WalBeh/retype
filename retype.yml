@@ -7,6 +7,6 @@ branding:
   label: Docs
 links:
 - text: Getting Startedx
-  link: https://walbeh.github.io/retype/
+  link: https://walbeh.github.io/retype/docs
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
