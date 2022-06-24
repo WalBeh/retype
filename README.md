@@ -1,4 +1,5 @@
 # Allgemeines
+
 Knackige Kurze Antworten zur Vorbereitung auf die ÖVSV Amateurfunk Prüfung. Ausgerichtet an
 den offiziellen Lernunterlagen. Stand 2022.
 ## Das gibt es doch schon alles!
