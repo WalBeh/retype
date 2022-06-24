@@ -12,5 +12,6 @@ Die Inhalte wurde alle von mir überarbeitet. Credits gehen raus zu "Flo" der da
 ## Gehe bitte zum Kurs!
 Dies ist eine Lernhilfe kein Ersatz für die offiziellen Unterlagen oder der Teilnahme an einem Amateurfunk Kurs! Ich habe dies für mich optimiert um für die Prüfung kurze knackige Antworten zu haben. Zumindest wo dies möglich ist.
 
-VS Code Regex:
+## Nerd stuff
+Regex für Satz mit `?`:
 [^.!?]+\?
