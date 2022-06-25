@@ -1,3 +1,5 @@
+# Technik
+
 ### T1: Ohmsches und Kirchhoffsches Gesetze?
 Spannung verhält sich proportional zu Spannung und Widerstand.
 
@@ -17,3 +19,5 @@ Bekannte Halbleiter:
 - Diode
 - Transistor
 - Thyristor
+
+### maybe coming soon :-)
